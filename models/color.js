@@ -1,4 +1,4 @@
-module.exports = [
+colorsmodule.exports = [
   "MistyRose",
   "Coral",
   "Goldenrod",
